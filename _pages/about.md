@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an Assistant Project Scientist in the Department of Land, Air and Water Resources at the University of California, Davis, USA. I work on a broad range of research areas pertaining to weather and climate extremes. Specifically, my research focuses on understanding the processes that lead to extreme precipitation and temperature events; exploring methods to reduce uncertainty in future projections of extremes; quantifying future changes in precipitation intensity-duration frequency (IDF) curves; detection & attribution of natural and human influences on extremes; decadal predictability; the innovative use of metrics for climate model evaluation; and co-production of actionable climate science. To perform this research, I am funded by the two United States Department of Energy (US-DOE) projects, [HyperFACETS](https://climatemodeling.science.energy.gov/projects/framework-improving-analysis-and-modeling-earth-system-and-intersectoral-dynamics-regional) and [CASCADE](https://climatemodeling.science.energy.gov/projects/calibrated-and-systematic-characterization-attribution-and-detection-extremes-cascade). The HyperFACETS project is 
 
 A data-driven personal website
 ======
