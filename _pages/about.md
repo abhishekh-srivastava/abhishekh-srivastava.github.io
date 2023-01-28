@@ -18,17 +18,17 @@ change, metric development, climate model evaluation, co-production of actionabl
 
 Education
 ======
-Ph.D. Climate Dynamics - George Mason University, Fairfax, VA, USA
-M.Sc. Physics - University of Allahabad, Allahabad, U.P., India
-B.Sc. Physics, Chemistry, Mathematics - University of Allahabad, Allahabad, U.P., India
+- Ph.D. Climate Dynamics - George Mason University, Fairfax, VA, USA
+- M.Sc. Physics - University of Allahabad, Allahabad, U.P., India
+- B.Sc. Physics, Chemistry, Mathematics - University of Allahabad, Allahabad, U.P., India
 
 Experience
 ------
-. Assistant Project Scientist, University of California; Davis, CA, USA. Oct 2021-present.
-. Postdoctoral Scholar, University of California; Davis, CA, USA. Oct 2017-Sep2021.
-. Intern (Postdoctoral), George Mason University, Fairfax, VA, USA. July 2017-Sep 2017.
-. Graduate Research Assistant, George Mason University, Fairfax, VA, USA. 2010-2017.
-. Lecturer in Physics, United College of Engineering and Research, Allahabad, U.P., India. Jan 2008 - June 2010.
+- Assistant Project Scientist, University of California; Davis, CA, USA. Oct 2021-present.
+- Postdoctoral Scholar, University of California; Davis, CA, USA. Oct 2017-Sep2021.
+- Intern (Postdoctoral), George Mason University, Fairfax, VA, USA. July 2017-Sep 2017.
+- Graduate Research Assistant, George Mason University, Fairfax, VA, USA. 2010-2017.
+- Lecturer in Physics, United College of Engineering and Research, Allahabad, U.P., India. Jan 2008 - June 2010.
 
 Create content & metadata
 ------
