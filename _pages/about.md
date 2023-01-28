@@ -43,4 +43,11 @@ Role: Co-Investigator
 Period: 2020-2023  
 Amount: $9M
 
+**Title: CAlibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Science Focus Area (SFA)**  
+Sponsor: Department of Energy  
+Role: Co-Investigator
+Period: 2020-2023  
+Amount: $8.25M
+
+
 
