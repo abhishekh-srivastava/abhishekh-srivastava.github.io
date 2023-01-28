@@ -37,12 +37,10 @@ Professional Affiliations
 
 Research Funding
 ======
-Title: A Framework for Improving Analysis and Modeling of Earth System and Intersectoral Dynamics at Regional Scales (HyperFACETS)
-=
-Sponsor: Department of Energy
-=
-Co-Investigator
-Period: 2020-2023
+**Title: A Framework for Improving Analysis and Modeling of Earth System and Intersectoral Dynamics at Regional Scales (HyperFACETS)**  
+Sponsor: Department of Energy  
+Role: Co-Investigator  
+Period: 2020-2023  
 Amount: $9M
 
 
