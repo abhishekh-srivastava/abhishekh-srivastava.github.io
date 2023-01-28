@@ -8,26 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Project Scientist in the Department of Land, Air and Water Resources at the University of California, Davis, USA. I work on a broad range of research areas pertaining to weather and climate extremes. Specifically, my research focuses on understanding the processes that lead to extreme precipitation and temperature events; exploring methods to reduce uncertainty in future projections of extremes; quantifying future changes in precipitation intensity-duration frequency (IDF) curves; detection & attribution of natural and human influences on extremes; decadal predictability; the innovative use of metrics for climate model evaluation; and co-production of actionable climate science. To perform this research, I am funded by the two United States Department of Energy (US-DOE) projects, [HyperFACETS](https://climatemodeling.science.energy.gov/projects/framework-improving-analysis-and-modeling-earth-system-and-intersectoral-dynamics-regional) and [CASCADE](https://climatemodeling.science.energy.gov/projects/calibrated-and-systematic-characterization-attribution-and-detection-extremes-cascade). The HyperFACETS project is 
+I am an Assistant Project Scientist in the Department of Land, Air and Water Resources at the University of California, Davis, USA. I work on a broad range of research areas pertaining to weather and climate extremes. Specifically, my research focuses on understanding the processes that lead to extreme precipitation and temperature events; exploring methods to reduce uncertainty in future projections of extremes; quantifying future changes in precipitation intensity-duration frequency (IDF) curves; detection & attribution of natural and human influences on extremes; decadal predictability; the innovative use of metrics for climate model evaluation; and co-production of actionable climate science. To perform this research, I am funded by the two United States Department of Energy (US-DOE) projects, [HyperFACETS](https://climatemodeling.science.energy.gov/projects/framework-improving-analysis-and-modeling-earth-system-and-intersectoral-dynamics-regional) and [CASCADE](https://climatemodeling.science.energy.gov/projects/calibrated-and-systematic-characterization-attribution-and-detection-extremes-cascade). In the The HyperFACETS project, my research is focused on producing decision-relevant hydroclimate informaton through metric-based model evaluation and projection, exploring methods to reduce uncertainties in futuer projections, large scale patterns associated woth the precipitation extremes. In the CASCADE project, I work on the detection and attribution of heat extremes and understaning the process that lead to heat extremes.  
 
-A data-driven personal website
+Expertise
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Statistics of weather and climate extremes, detection and attribution, precipitation extremes, decadal variability and predictability, atmosphere-
+land-ocean-sea ice interaction, midlatitude dynamics, tropical-extratropical interaction, arctic-midlatitude interaction, aquaplanet simulations, climate
+change, metric development, climate model evaluation, co-production of actionable climate science.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Ph.D. Climate Dynamics - George Mason University, Fairfax, VA, USA
+M.Sc. Physics - University of Allahabad, Allahabad, U.P., India
+B.Sc. Physics, Chemistry, Mathematics - University of Allahabad, Allahabad, U.P., India
 
-Site-wide configuration
+Experience
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+. Assistant Project Scientist, University of California; Davis, CA, USA. Oct 2021-present.
+. Postdoctoral Scholar, University of California; Davis, CA, USA. Oct 2017-Sep2021.
+. Intern (Postdoctoral), George Mason University, Fairfax, VA, USA. July 2017-Sep 2017.
+. Graduate Research Assistant, George Mason University, Fairfax, VA, USA. 2010-2017.
+. Lecturer in Physics, United College of Engineering and Research, Allahabad, U.P., India. Jan 2008 - June 2010.
 
 Create content & metadata
 ------
