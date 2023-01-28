@@ -11,6 +11,9 @@ redirect_from:
 
 Here I will talk about my research
 
+![Screen Shot 2023-01-21 at 6 00 59 PM](https://user-images.githubusercontent.com/123796770/215288908-04c949ba-a988-47af-96ae-fa8a3e9cb71b.png)
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
