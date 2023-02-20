@@ -12,6 +12,8 @@ redirect_from:
 
 Editor
 ======
+I am the reviewer of the following scientific journals.
+
 <ol reversed>
 <li> Atmosphere (MDPI)- Topic Editor. 2020 - present </li> 
 <li> Climate (MDPI)- Special Issue Editor. Special issue: [Extreme Precipitation in a Changing Climate](https://www.mdpi.com/journal/climate/special_issues/climate_precipitation). </li> 
@@ -21,27 +23,28 @@ Reviewer
 ====== 
 I am the reviewer of the following scientific journals.
 
-- Nature Communications (Nature). Impact Factor:17.69.
-- Climate Dynamics (Springer). Impact Factor:4.90.
-- Earth and Space Science (American Geophysical Union). Impact Factor: 3.68
-- Natural Hazards and Earth System Sciences (European Geophysical Union). Impact Factor: 4.58
-- Atmosphere (MDPI). Impact Factor: 3.11
-- Geoscientific Model Development (European Geophysical Union). Impact Factor: 6.89
-- International Journal of Climatology (Royal Meteorological Society). Impact Factor: 3.65
-- Journal of Hydrology (Elsevier). Impact Factor: 6.70
-- Weather and Forecasting (American Meteorological Society). Impact Factor: 3.37
-- Journal of Applied Meteorology and Climatology (American Meteorological Society). Impact Factor: 3.55
-- Natural Hazards (Springer). Impact Factor: 3.15
-- Scientific Data (Nature). Impact Factor: 8.50
-- Climate (MDPI). Cite Score: 4.7
-- Water (MDPI). Impact Factor: 3.53
-- Geophysical Research Letters (American Geophysical Union). Impact Factor: 5.58
-- Advances in Statistical Climatology, Meteorology and Oceanography (Copernicus)
-- Climate Change (Springer). Impact Factor: 5.174
-- Journal of Climate (American Meteorological Society). Impact Factor: 5.38
-- Sustainability (MDPI). Impact Factor: 3.89
-- Journal of Hydrometeorology (American Meteorological Society). Impact Factor: 4.871
-
+<ol reversed>
+<li> Nature Communications (Nature). Impact Factor:17.69. </li> 
+<li> Climate Dynamics (Springer). Impact Factor:4.90. </li> 
+<li> Earth and Space Science (American Geophysical Union). Impact Factor: 3.68. </li> 
+<li> Natural Hazards and Earth System Sciences (European Geophysical Union). Impact Factor: 4.58. </li> 
+<li> Atmosphere (MDPI). Impact Factor: 3.11. </li> 
+<li> Geoscientific Model Development (European Geophysical Union). Impact Factor: 6.89. </li> 
+<li> International Journal of Climatology (Royal Meteorological Society). Impact Factor: 3.65. </li> 
+<li> Journal of Hydrology (Elsevier). Impact Factor: 6.70. </li> 
+<li> Weather and Forecasting (American Meteorological Society). Impact Factor: 3.37. </li> 
+<li> Journal of Applied Meteorology and Climatology (American Meteorological Society). Impact Factor: 3.55. </li> 
+<li> Natural Hazards (Springer). Impact Factor: 3.15. </li> 
+<li> Scientific Data (Nature). Impact Factor: 8.50. </li> 
+<li> Climate (MDPI). Cite Score: 4.7. </li> 
+<li> Water (MDPI). Impact Factor: 3.53. </li> 
+<li> Geophysical Research Letters (American Geophysical Union). Impact Factor: 5.58. </li> 
+<li> Advances in Statistical Climatology, Meteorology and Oceanography (Copernicus). </li> 
+<li> Climate Change (Springer). Impact Factor: 5.174. </li> 
+<li> Journal of Climate (American Meteorological Society). Impact Factor: 5.38. </li> 
+<li> Sustainability (MDPI). Impact Factor: 3.89. </li> 
+<li> Journal of Hydrometeorology (American Meteorological Society). Impact Factor: 4.871. </li> 
+</ol>
 Session Convener/ organizer
 ======
 High-Impact Weather and Climate Extremes, 28th International Union
