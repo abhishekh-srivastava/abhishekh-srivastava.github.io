@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Project Scientist in the Department of Land, Air and Water Resources at the University of California, Davis, USA. I work on a broad range of research areas pertaining to weather and climate extremes. Specifically, my research focuses on understanding the processes that lead to extreme precipitation and temperature events; exploring methods to reduce uncertainty in future projections of extremes; quantifying future changes in precipitation intensity-duration frequency (IDF) curves; detection & attribution of natural and human influences on extremes; decadal predictability; the innovative use of metrics for climate model evaluation; and co-production of actionable climate science. To perform this research, I am funded by the two United States Department of Energy (US-DOE) projects, [HyperFACETS](https://climatemodeling.science.energy.gov/projects/framework-improving-analysis-and-modeling-earth-system-and-intersectoral-dynamics-regional) and [CASCADE](https://climatemodeling.science.energy.gov/projects/calibrated-and-systematic-characterization-attribution-and-detection-extremes-cascade). In the The HyperFACETS project, my research is focused on producing decision-relevant hydroclimate informaton through metric-based model evaluation and projection, exploring methods to reduce uncertainties in futuer projections, large scale patterns associated woth the precipitation extremes. In the CASCADE project, I work on the detection and attribution of heat extremes and understaning the process that lead to heat extremes.  
+I am an Assistant Project Scientist in the Department of Land, Air and Water Resources at the University of California, Davis, USA. I work on a broad range of research areas pertaining to weather and climate extremes. Specifically, my research focuses on understanding the processes that lead to extreme precipitation and temperature events; exploring methods to reduce uncertainty in future projections of extremes; quantifying future changes in precipitation intensity-duration frequency (IDF) curves; detection & attribution of natural and human influences on extremes; decadal predictability; the innovative use of metrics for climate model evaluation; and co-production of actionable climate science. To perform this research, I am funded by the two United States Department of Energy (US-DOE) projects, [HyperFACETS](https://hyperfacets.ucdavis.edu/) and [CASCADE](https://cascade.lbl.gov/). In the The HyperFACETS project, my research is focused on producing decision-relevant hydroclimate informaton through metric-based model evaluation and projection, exploring methods to reduce uncertainties in futuer projections, large scale patterns associated woth the precipitation extremes. In the CASCADE project, I work on the detection and attribution of heat extremes and understaning the process that lead to heat extremes.  
 
 Expertise
 ======
@@ -18,9 +18,9 @@ change, metric development, climate model evaluation, co-production of actionabl
 
 Education
 ======
-- Ph.D. Climate Dynamics - George Mason University, Fairfax, VA, USA
-- M.Sc. Physics - University of Allahabad, Allahabad, U.P., India
-- B.Sc. Physics, Chemistry, Mathematics - University of Allahabad, Allahabad, U.P., India
+- Ph.D. Climate Dynamics - George Mason University, Fairfax, VA, USA.
+- M.Sc. Physics - University of Allahabad, Allahabad, U.P., India.
+- B.Sc. Physics, Chemistry, Mathematics - University of Allahabad, Allahabad, U.P., India.
 
 Experience
 ======
@@ -37,13 +37,13 @@ Professional Affiliations
 
 Research Funding
 ======
-**Title: A Framework for Improving Analysis and Modeling of Earth System and Intersectoral Dynamics at Regional Scales (HyperFACETS)**  
+[**Title: A Framework for Improving Analysis and Modeling of Earth System and Intersectoral Dynamics at Regional Scales (HyperFACETS)**](https://climatemodeling.science.energy.gov/projects/framework-improving-analysis-and-modeling-earth-system-and-intersectoral-dynamics-regional)  
 Sponsor: Department of Energy  
 Role: Co-Investigator  
 Period: 2020-2023  
 Amount: $9M
 
-**Title: CAlibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Science Focus Area (SFA)**  
+[**Title: CAlibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Science Focus Area (SFA)**](https://climatemodeling.science.energy.gov/projects/calibrated-and-systematic-characterization-attribution-and-detection-extremes-cascade)  
 Sponsor: Department of Energy  
 Role: Co-Investigator
 Period: 2020-2023  
