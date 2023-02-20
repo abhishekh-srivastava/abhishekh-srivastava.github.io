@@ -7,8 +7,10 @@ redirect_from:
   - /services
 ---
 
- <ins>Services </ins>
+Services
 ======
+
+<br>
 
 Editor
 ======
