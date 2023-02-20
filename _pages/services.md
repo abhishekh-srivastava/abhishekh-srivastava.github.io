@@ -14,7 +14,7 @@ Services
 
 Editor
 ======
-I am an editor of the following scientific journals.
+I serve as an editor of the following scientific journals.
 
 <ol reversed>
 <li> Atmosphere (MDPI)- Topic Editor. 2020 - present </li> 
@@ -23,7 +23,7 @@ I am an editor of the following scientific journals.
 
 Reviewer
 ====== 
-I am a reviewer of the following scientific journals.
+I am a reviewer in the following scientific journals.
 
 <ol reversed>
 <li> Nature Communications (Nature). Impact Factor:17.69. </li> 
