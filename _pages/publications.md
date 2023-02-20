@@ -1,18 +1,8 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+2023
+======
+(Under Review) Srivastava, A. K., Ullrich, P. A., Rastogi, D., Vahmani, P., Jones, A., & Grotjahn, R. (2023). Assessment of WRF (v 4.2. 1) dynamically downscaled precipitation on subdaily and daily timescales over CONUS. EGUsphere, 1-32.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+2022
+======
+(Under Review) Srivastava, A. K., Ullrich, P. A., Rastogi, D., Vahmani, P., Jones, A., & Grotjahn, R. (2023). Assessment of WRF (v 4.2. 1) dynamically downscaled precipitation on subdaily and daily timescales over CONUS. EGUsphere, 1-32.
 
