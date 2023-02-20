@@ -45,7 +45,7 @@ Amount: $9M
 
 [**Title: CAlibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Science Focus Area (SFA)**](https://climatemodeling.science.energy.gov/projects/calibrated-and-systematic-characterization-attribution-and-detection-extremes-cascade)  
 Sponsor: Department of Energy  
-Role: Co-Investigator
+Role: Co-Investigator  
 Period: 2020-2023  
 Amount: $8.25M
 
