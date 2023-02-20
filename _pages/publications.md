@@ -7,6 +7,8 @@ redirect_from:
   - /publications
 ---
 
+List of Publications
+======
 
 2023
 ======
