@@ -6,9 +6,10 @@ author_profile: true
 redirect_from:
   - /presentations
 ---
-
-1. Evaluation of Precipitation Indices in Suites of Dynamically and Statistically Downscaled Regional Climate Models over Florida. American Geophysical Union Fall Meeting 2022, Chicago, IL, USA (To be held in December 2022). 
-1. Pooling data improves multimodel IDF estimates over median-based IDF estimates: Analysis over Susquehanna and Florida. American Geophysical Union Fall Meeting 2021, New Orleans, USA. International conference. Poster presentation. 
+<ol reversed>
+<li> Evaluation of Precipitation Indices in Suites of Dynamically and Statistically Downscaled Regional Climate Models over Florida. American Geophysical Union Fall Meeting 2022, Chicago, IL, USA. </li> 
+<li> Pooling data improves multimodel IDF estimates over median-based IDF estimates: Analysis over Susquehanna and Florida. American Geophysical Union Fall Meeting 2021, New Orleans, USA. International conference. Poster presentation. </li>
+</ol>
 
 16. Large Scale Meteorological Patterns Associated with Extreme Precipitation Events Over Northern California. American Geophysical Union Fall Meeting 2021, New Orleans, LA, USA. International conference. Oral presentation.
 17. From storylines to anthologies – Systematically examining the implications of climate change on known weather extremes and their multisectoral impacts (Invited). American Geophysical Union Fall Meeting 2021, New Orleans, LA, USA. International conference. Oral presentation.
