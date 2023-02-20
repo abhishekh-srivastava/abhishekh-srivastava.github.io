@@ -18,7 +18,7 @@ I serve as an editor of the following scientific journals.
 
 <ol reversed>
 <li> Atmosphere (MDPI)- Topic Editor. 2020 - present </li> 
-<li> Climate (MDPI)- Special Issue Editor. Special issue: [Extreme Precipitation in a Changing Climate](https://www.mdpi.com/journal/climate/special_issues/climate_precipitation). </li> 
+<li> Climate (MDPI)- Special Issue Editor. Special issue: Extreme Precipitation in a Changing Climate(https://www.mdpi.com/journal/climate/special_issues/climate_precipitation). </li> 
 </ol>
 
 Reviewer
