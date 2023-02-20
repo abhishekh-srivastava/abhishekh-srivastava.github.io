@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Related Links"
-permalink: /related-links/
+permalink: /related_links/
 author_profile: true
 redirect_from:
-  - /related-links
+  - /related_links
 ---
 
 hi
