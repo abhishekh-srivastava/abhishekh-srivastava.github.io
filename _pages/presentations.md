@@ -26,7 +26,7 @@ List of Presentations
 </li> 
 <li> Decadal Predictability without Ocean Dynamics, Dynamical Core Model Intercomparison Project (DCMIP) workshop, June 2016, National Center for Atmospheric Research (NCAR), Boulder, Colorado, USA. Poster. </li> 
 <li> Can we forecast the next couple of years w/o Ocean circulation?, GMU Earth Week’s Lightning Talks, April 20, 2016, George Mason University, Fairfax, VA, USA. Poster. </li> 
-<li> Monsoon in a Changing Climate, Targeted Training Activity: ENSO Monsoon in the Current and Future Climate, August 2012, The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy. Oral. </li> 
+<li> Monsoon in a Changing Climate, Targeted Training Activity: ENSO Monsoon in the Current and Future Climate, August 2012, The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy. Oral. </li>   
 </ol>
 
 
