@@ -49,7 +49,7 @@ I am a reviewer in the following scientific journals.
 </ol>
 
 
-Session Convener/ organizer
+Session Convener/ Organizer
 ======
 
 <ol reversed>
@@ -66,7 +66,7 @@ Session Convener/ organizer
 <li> 5th Annual UC Davis Postdoctoral Research Symposium, April 2019, University of California, Davis, CA, USA (Organizer). </li> 
 </ol>
 
-AGU OSPA reviewer
+AGU OSPA Reviewer
 ======
 I have reviewed the student presentations in American Geophysical Union's Fall Meeting Outstanding Student Poster
 Award (OSPA) for the years 2018, 2019, 2020, 2021 & 2022.
