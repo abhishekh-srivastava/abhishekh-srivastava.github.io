@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /presentations
 ---
+
+List of Presentations
+------
+
 <ol reversed>
 <li> Evaluation of Precipitation Indices in Suites of Dynamically and Statistically Downscaled Regional Climate Models over Florida. American Geophysical Union Fall Meeting 2022, Chicago, IL, USA. Poster. </li> 
 <li> Pooling data improves multimodel IDF estimates over median-based IDF estimates: Analysis over Susquehanna and Florida. American Geophysical Union Fall Meeting 2021, New Orleans, USA. Poster. </li>
