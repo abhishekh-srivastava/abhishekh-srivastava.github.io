@@ -11,4 +11,4 @@ redirect_from:
 
 Laset updated on October 13, 2022
 
-[CV](https://github.com/abhishekh-srivastava/abhishekh-srivastava.github.io/files/1.Abhishekh_CV_Oct2022.pdf)
+[CV](http://abhishekh-srivastava.github.io/files/1.Abhishekh_CV_Oct2022.pdf)
