@@ -43,7 +43,7 @@ I am a reviewer in the following scientific journals.
 <li> Water (MDPI). Impact Factor: 3.53. </li> 
 <li> Geophysical Research Letters (American Geophysical Union). Impact Factor: 5.58. </li> 
 <li> Advances in Statistical Climatology, Meteorology and Oceanography (Copernicus). </li> 
-<li> Climate Change (Springer). Impact Factor: 5.174. </li> 
+<li> Climatic Change (Springer). Impact Factor: 5.174. </li> 
 <li> Journal of Climate (American Meteorological Society). Impact Factor: 5.38. </li> 
 <li> Sustainability (MDPI). Impact Factor: 3.89. </li> 
 <li> Journal of Hydrometeorology (American Meteorological Society). Impact Factor: 4.871. </li> 
