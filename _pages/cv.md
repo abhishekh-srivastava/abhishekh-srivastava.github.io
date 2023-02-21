@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Laset updated on October 13, 2022
+Laset updated on Feb 21, 2023
 
-[Abhishekh Srivastava's CV] (<a href="https://abhishekh-srivastava.github.io/files/1.Abhishekh_CV_Oct2022.pdf" target="_blank">PDF</a>)
+[Abhishekh Srivastava's CV] (<a href="https://abhishekh-srivastava.github.io/files/Abhishekh_CV_21Feb2023.pdf" target="_blank">PDF</a>)
