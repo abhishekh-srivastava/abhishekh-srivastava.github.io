@@ -54,13 +54,12 @@ Session Convener/ Organizer
 ======
 
 <ol reversed>
-<li> JM04 Weather and Climate Extremes: Understanding, Modeling, Prediction, and Impacts (IAMAS, IAHS), 28th International Union of Geodesy and Geophysics General Assembly, 2023, Berlin, Germany (Convener). </li> 
-<li> Decision-relevant understanding of dry and wet precipitation extremes and their impacts, American Geophysical Union Fall Meeting 2022, Chicago, IL, USA (Primary Convener). </li> 
+<li> (JM04) Weather and Climate Extremes: Understanding, Modeling, Prediction, and Impacts (IAMAS, IAHS), 28th International Union of Geodesy and Geophysics General Assembly, 2023, Berlin, Germany (Convener). </li> 
+<li> Decision-relevant understanding of dry and wet precipitation extremes and their impacts, American Geophysical Union Fall Meeting 2022, Chicago, IL, USA (Primary Convener, Chair, Liaison). </li> 
 <li> Decision-relevant understanding of dry and wet precipitation extremes and their impacts, 19th Asian Oceania Geosciences Society Meeting, 2022, Virtual (Primary Convener). </li> 
-<li> 8th Annual UC Davis Postdoctoral Research Symposium, March 2022, University of California, Davis, CA, USA (Organizer). </li> 
-<li> Decision-relevant understanding of precipitation extremes and their impacts, American Geophysical Union Fall Meeting 2021, New Orleans, LA, USA (Primary Convener). </li> 
-<li> 7th Annual UC Davis Postdoctoral Research Symposium, March 2021, University of California, Davis, CA, USA (Organizer). </li> 
-<li> 6th Annual UC Davis Postdoctoral Research Symposium, April 2020, University of California, Davis, CA, USA (Organizer). </li> 
+<li> 7th Annual UC Davis Postdoctoral Research Symposium, March 2022, University of California, Davis, CA, USA (Organizer). </li> 
+<li> Decision-relevant understanding of precipitation extremes and their impacts, American Geophysical Union Fall Meeting 2021, New Orleans, LA, USA (Primary Convener, Chair, Liaison). </li> 
+<li> 6th Annual UC Davis Postdoctoral Research Symposium, March 2021, University of California, Davis, CA, USA (Organizer). </li> 
 <li> Hydrometeorologic and Coastal Extremes in Current and Future Climates, 27th International Union of Geodesy and Geophysics General Assembly, 2019, Montreal, Canada (Convener). </li> 
 <li> High-Impact Weather and Climate Extremes, 27th International Union of Geodesy and Geophysics General Assembly, 2019, Montreal, Canada
 (Convener). </li> 
