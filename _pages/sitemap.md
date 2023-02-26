@@ -7,6 +7,7 @@ redirect_from:
 author_profile: true
 ---
 
-
-![alt text](https://abhishekh-srivastava.github.io/images/ucdavis_logo_cmyk_gold.eps)
+<div class="row">
+  <img src="/images/ucdavis_logo_cmyk_gold.eps" alt="Snow" style="width:100%"> 
+</div>
 
