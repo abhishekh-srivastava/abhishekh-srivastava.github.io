@@ -40,7 +40,7 @@ Research Funding
 [Title: A Framework for Improving Analysis and Modeling of Earth System and Intersectoral Dynamics at Regional Scales (HyperFACETS)](https://climatemodeling.science.energy.gov/projects/framework-improving-analysis-and-modeling-earth-system-and-intersectoral-dynamics-regional)  
 Sponsor: Department of Energy  
 Role: Co-Investigator  
-Period: 2020-2023  
+Period: 2022-2025  
 Amount: $10.5M
 
 [Title: CAlibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Science Focus Area (SFA)](https://climatemodeling.science.energy.gov/projects/calibrated-and-systematic-characterization-attribution-and-detection-extremes-cascade)  
