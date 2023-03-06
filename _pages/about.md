@@ -41,7 +41,7 @@ Research Funding
 Sponsor: Department of Energy  
 Role: Co-Investigator  
 Period: 2020-2023  
-Amount: $9M
+Amount: $10.5M
 
 [Title: CAlibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Science Focus Area (SFA)](https://climatemodeling.science.energy.gov/projects/calibrated-and-systematic-characterization-attribution-and-detection-extremes-cascade)  
 Sponsor: Department of Energy  
