@@ -10,12 +10,32 @@ redirect_from:
 List of Publications
 ======
 
+2025
+=====
+**Srivastava, A. K.**, Grotjahn, R., Rhoades, A.M., & Ullrich, P. A. (2025). Large-scale Statistically Meaningful Patterns (LSMPs) associated with precipitation extremes over Northern California. Journal of Geophysical Research: Atmospheres, 130(5), e2024JD041307. 
+<https://doi.org/10.1029/2024JD041307>.
+
+2024
+=====
+Rhoades, A.M., Zarzycki, C.M., ...., **Srivastava, A.** et al. (2024). Anticipating How Rain-on-Snow Events Will Change through the 21st
+Century: Lessons from the 1997 New Year’s Flood Event. Climate Dynamics, 62(9), 8615-8637. <https://doi.org/10.1007/s00382-024-07351-7>.
+
+Srivastava, A. K., Wehner, M., Bonfils, C., & Ullrich, P. A & Risser, M (2024). Local hydroclimate drives differential warming rates between
+regular summer days and extreme hot days in the Northern Hemisphere. Weather and Climate Extremes, 45, 100709. 
+<https://doi.org/10.1016/j.wace.2024.100709>.
+
 2023
 ======
-**Srivastava, A. K.**, Ullrich, P. A., Rastogi, D., Vahmani, P., Jones, A., and Grotjahn, R.: Assessment of WRF (v 4.2.1) dynamically downscaled precipitation on subdaily and daily timescales over CONUS, EGUsphere [preprint], <https://doi.org/10.5194/egusphere-2022-1382>, 2023. 
+Srivastava, A. K., Ullrich, P. A., Rastogi, D., Vahmani, P., Jones, A., and Grotjahn, R.: Assessment of WRF (v 4.2.1) dynamically
+downscaled precipitation on subdaily and daily timescales over CONUS (2023), Geosci. Model Dev., 16, 3699–3722, 
+<https://doi.org/10.5194/gmd-16-3699-2023>.
 
-Jagannathan, K., Buddhavarapu, S., Ullrich, P., Jones, A.D., HyperFACETS project team (**Abhishekh Srivastava**) (2022). Typologies of Actionable Climate Information and its Use. Under review in Global Environmental Change (under review).
+Rhoades, A. M., Zarzycki, C. M., Inda-Diaz, H. A., Ombadi, M., Pasquier, U., **Srivastava, A**., et al. (2023). Recreating the
+California New Year’s flood event of 1997 in a regionally refined Earth system model. Journal of Advances in Modeling Earth Systems, 15,
+e2023MS003793. <https://doi.org/10.1029/2023MS003793>.
 
+Jagannathan, K., Buddhavarapu, S., Ullrich, P. A., Jones, A. D., & HyperFACETS Project Team (**Abhishekh Srivastava**) (2023). Typologies of actionable climate information and its use. Global Environmental Change, 82, 102732. <https://doi.org/10.1016/j>.
+gloenvcha.2023.102732.
 
 2022
 ======
