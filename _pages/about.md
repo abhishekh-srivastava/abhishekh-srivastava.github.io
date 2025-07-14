@@ -43,7 +43,7 @@ Role: Co-Investigator
 Period: 2022-2025  
 Amount: $10.5M
 
-[Title: Hyperfacets work on Decision-relevant analysis of Fire Weather Index in KM-scale climate models]
+Title: Hyperfacets work on Decision-relevant analysis of Fire Weather Index in KM-scale climate models
 
 Sponsor: Department of Energy  
 Role: Co-Investigator  
