@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Project Scientist in the Department of Land, Air and Water Resources at the University of California, Davis, USA. I work on a broad range of research areas pertaining to weather and climate extremes. Specifically, my research focuses on understanding the processes that lead to extreme precipitation and temperature events; exploring methods to reduce uncertainty in future projections of extremes; quantifying future changes in precipitation intensity-duration frequency (IDF) curves; detection & attribution of natural and human influences on extremes; decadal predictability; the innovative use of metrics for climate model evaluation; and co-production of actionable climate science. To perform this research, I am funded by the two United States Department of Energy (US-DOE) projects, [HyperFACETS](https://hyperfacets.ucdavis.edu/) and [CASCADE](https://cascade.lbl.gov/). In the  HyperFACETS project, my research is focused on producing decision-relevant hydroclimate information through metric-based model evaluation and projection, exploring methods to reduce uncertainties in future projections, and large-scale patterns associated with the precipitation extremes. In the CASCADE project, I work on the detection and attribution of heat extremes and understanding the processes that lead to those extremes.  
+I am an Assistant Project Scientist in the Department of Land, Air and Water Resources at the University of California, Davis, USA. I work on a broad range of research areas pertaining to weather and climate extremes. Specifically, my research focuses on understanding the processes that lead to extreme precipitation and temperature events; exploring methods to reduce uncertainty in future projections of extremes; quantifying future changes in precipitation intensity-duration frequency (IDF) curves; detection & attribution of natural and human influences on extremes; decadal predictability; the innovative use of metrics for climate model evaluation; and co-production of actionable climate science. To perform this research, I am funded by a United States Department of Energy (US-DOE) project, [HyperFACETS](https://hyperfacets.ucdavis.edu/). In the  HyperFACETS project, my research is focused on producing decision-relevant hydroclimate information through metric-based model evaluation and projection, exploring methods to reduce uncertainties in future projections, and large-scale patterns associated with the precipitation extremes. I also work on the detection and attribution of heat extremes and understanding the processes that lead to those extremes, wildfires, and their connections to natural modes of variability.  
 
 Expertise
 ======
 Statistics of weather and climate extremes, detection and attribution, precipitation extremes, decadal variability and predictability, atmosphere-
 land-ocean-sea ice interaction, midlatitude dynamics, tropical-extratropical interaction, arctic-midlatitude interaction, aquaplanet simulations, climate
-change, metric development, climate model evaluation, co-production of actionable climate science.
+change, metric development, climate model evaluation, and co-production of actionable climate science.
 
 Education
 ======
@@ -43,10 +43,17 @@ Role: Co-Investigator
 Period: 2022-2025  
 Amount: $10.5M
 
+[Title: Hyperfacets work on Decision-relevant analysis of Fire Weather Index in KM-scale climate models]
+
+Sponsor: Department of Energy  
+Role: Co-Investigator  
+Period: May 2025-December 2025  
+Amount: $150,000
+
 [Title: CAlibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE) Science Focus Area (SFA)](https://climatemodeling.science.energy.gov/projects/calibrated-and-systematic-characterization-attribution-and-detection-extremes-cascade)  
 Sponsor: Department of Energy  
 Role: Co-Investigator  
-Period: 2020-2023  
+Period: 2020-March 2025 
 Amount: $8.25M
 
 
