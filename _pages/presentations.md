@@ -11,6 +11,10 @@ List of Presentations
 ======
 
 <ol reversed>
+<li> Local hydroclimate drives differential warming rates between regular summer days and extreme hot days in the Northern Hemisphere. American Geophysical Union Fall Meeting 2024, Washington D.C., USA. </li>
+<li> Anticipating How Rain-on-Snow Events Will Change through the 21st Century: Lessons from the 1997 New Year’s Flood Event (Invited). American Geophysical Union Fall Meeting 2024, Washington D.C., USA. </li>
+<li> Assessment of WRF (v 4.2.1) dynamically downscaled precipitation on subdaily and daily timescales over CONUS. American Geophysical Union Fall Meeting 2023, San Francisco, CA, USA. </li>
+<li> Storyline-based investigations of compound extreme events with a regionally refined Earth system model: a case study of the 1997 California New Year’s flood event. American Geophysical Union Fall Meeting 2023, San Francisco, CA, USA. </li>
 <li> Evaluation of Precipitation Indices in Suites of Dynamically and Statistically Downscaled Regional Climate Models over Florida. American Geophysical Union Fall Meeting 2022, Chicago, IL, USA. Poster. </li> 
 <li> Pooling data improves multimodel IDF estimates over median-based IDF estimates: Analysis over Susquehanna and Florida. American Geophysical Union Fall Meeting 2021, New Orleans, USA. Poster. </li>
 <li> Large Scale Meteorological Patterns Associated with Extreme Precipitation Events Over Northern California. American Geophysical Union Fall Meeting 2021, New Orleans, LA, USA. Oral. </li> 
